@@ -4,13 +4,13 @@ Utility methods for parsing `git log` and `hg log` output
 
 ## Installation
 ```
-  npm install git-log-utils
+  npm install hg-log-utils
   
 ```
 ## Usage
 ```javascript
 
-GitLogUtils = require('git-log-utils')
+GitLogUtils = require('hg-log-utils')
 
 GitLogUtils.getFileCommitHistory(fileName)
 ```

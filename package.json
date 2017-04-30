@@ -1,15 +1,15 @@
 {
-  "name": "git-log-utils",
+  "name": "hg-log-utils",
   "version": "0.2.2",
   "description": "Utility methods for parsing git log output",
-  "main": "lib/git-log-utils.js",
+  "main": "lib/hg-log-utils.js",
   "scripts": {
     "test": "grunt test",
     "prepublish": "grunt build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/littlebee/git-log-utils.git"
+    "url": "https://github.com/christophed/git-log-utils.git"
   },
   "keywords": [
     "git",
@@ -18,9 +18,9 @@
   "author": "Bee Wilkerson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/littlebee/git-log-utils/issues"
+    "url": "https://github.com/christophed/git-log-utils/issues"
   },
-  "homepage": "https://github.com/littlebee/git-log-utils",
+  "homepage": "https://github.com/christophed/git-log-utils",
   "devDependencies": {
     "babel-core": "^6.4.0",
     "babel-loader": "^6.2.1",
